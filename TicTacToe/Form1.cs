@@ -15,7 +15,7 @@ namespace TicTacToe
         int player = 0;
         bool winner = false;
         bool gameFinish = true;
-        bool testing = false;
+        
 
 
         public Form1()
